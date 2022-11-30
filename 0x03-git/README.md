@@ -1,1 +1,2 @@
-A useful directory
+A useful directory.
+Some changes have been made.
